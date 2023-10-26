@@ -69,7 +69,6 @@ const config = {
             position: 'left',
             label: '主页',
           },
-          {to: '/blog', label: 'GitHub项目地址', position: 'left'},
           {
             href: 'https://github.com/cokice/List-of-genshin-University',
             label: 'GitHub',
