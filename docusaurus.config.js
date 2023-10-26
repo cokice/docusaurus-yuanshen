@@ -67,14 +67,14 @@ const config = {
             type: 'doc',
             docId: 'intro',
             position: 'left',
-            label: '文档',
+            label: '主页',
           },
-          //{to: '/blog', label: 'Blog', position: 'left'},
-          // {
-          //   href: 'https://github.com/facebook/docusaurus',
-          //   label: 'GitHub',
-          //   position: 'right',
-          // },
+          {to: '/blog', label: 'GitHub项目地址', position: 'left'},
+          {
+            href: 'https://github.com/cokice/List-of-genshin-University',
+            label: 'GitHub',
+            position: 'right',
+          },
         ],
       },
       footer: {
