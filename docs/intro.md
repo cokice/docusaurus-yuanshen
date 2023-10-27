@@ -19,8 +19,10 @@
 ## 高校名单
 | 网站 | 大学 | 
 | --- | --- |
-| [www.提瓦特理工学院.cn](http://www.提瓦特理工学院.cn) | 广东理工学院 |
+| [www.伦敦原神大学.com](http://www.伦敦原神大学.com) | 伦敦帝国理工学院 |
+| [www.原神农业大学.com](http://www.原神农业大学.com) | 河南农业大学 |
 | [www.江门原神大学.com](http://www.江门原神大学.com) | 五邑大学 |
+| [www.原神.org](http://www.原神.org) | 广东药科大学 |
 | [www.华南原神大学.com](http://www.华南原神大学.com) | 华南师范大学 |
 | [www.原神师范大学.com](http://www.原神师范大学.com) | 北京师范大学 |
 | [www.合肥原神大学.com](http://www.合肥原神大学.com) | 合肥学院    |
@@ -48,7 +50,6 @@
 | [www.湖南原神大学.cn](http://湖南原神大学.cn) | 湖南理工学院 |
 | [www.中国原神学院.icu](http://中国原神学院.icu) | 中国民用航空飞行学院 |
 | [www.世界原神大学.com](http://www.世界原神大学.com) | 广西大学 |
-| [www.世界原神大学 com](http://www.世界原神大学.com) | 广西大学 |
 | [www.江西原神大学.com](http://www.江西原神大学.com) | 江西财经大学 |
 | [www.原神启动.space](http://原神启动.space) | 广州商学院 |
 | [www.原神蒸发大学.com](http://www.原神蒸发大学.com) | 华东政法大学 |
@@ -91,6 +92,8 @@
 | [www.南京原神大学.com](http://www.南京原神大学.com) | 南京大学 |
 | [www.山西原神大学.com](http://www.山西原神大学.com) | 中北大学 |
 | [www.澳门原神大学.cn](http://www.澳门原神大学.cn) | 澳门城市大学 |
+| [www.苏州原神大学.com](https://www.xjtlu.edu.cn) | 西交利物浦大学 |
+
 
 ## 联系方式
 
