@@ -77,18 +77,11 @@ const config = {
         ],
       },
       themeConfig: {
-        // 其他配置项...
-        customHtml: `
-          <!-- Google tag (gtag.js) -->
-          <script async src="https://www.googletagmanager.com/gtag/js?id=G-TBKG682LWW"></script>
-          <script>
-            window.dataLayer = window.dataLayer || [];
-            function gtag(){dataLayer.push(arguments);}
-            gtag('js', new Date());
-          
-            gtag('config', 'G-TBKG682LWW');
-          </script>
-        `,
+        googleAnalytics: {
+          trackingID: 'G-TBKG682LWW',
+          // Optional fields.
+          anonymizeIP: true, 
+        },
       },
       footer: {
         style: 'dark',
