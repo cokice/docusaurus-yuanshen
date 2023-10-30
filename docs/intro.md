@@ -19,7 +19,10 @@
 
 ## 高校名单
 | 网站 | 大学 | 
+| 网站 | 大学 | 
 | --- | --- |
+| [南京原神工程大学.fun](http://南京原神工程大学.fun) | 南京信息工程大学 |
+| [苏州原神大学.top](http://苏州原神大学.top) | 苏州大学 |
 | [北方原神大学.top](http://北方原神大学.top) | 北方工业大学 |
 | [中国原神大学.cc](http://中国原神大学.cc) | 中国石油大学华东 |
 | [国立原神大学.top](http://国立原神大学.top) | 中国海洋大学 |
@@ -108,6 +111,9 @@
 | [www.原神工业大学.icu](https://www.原神工业大学.icu) | 西北工业大学 |
 | [天津原神大学.top](https://天津原神大学.top) | 天津理工大学 |
 | [www.tjut.top](https://www.tjut.top) | 原神 |
+| [加拿大原神大学.com](https://加拿大原神大学.com) | Simon Fraser University |
+| [加拿大原神大专.com](https://加拿大原神大专.com) | University of Ottawa |
+| [www.米哈游师范大学.com](https://www.米哈游师范大学.com) | 广西师范大学 |
 
 ## 联系方式
 
