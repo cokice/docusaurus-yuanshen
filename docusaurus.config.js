@@ -67,7 +67,7 @@ const config = {
             type: 'doc',
             docId: 'README',
             position: 'left',
-            label: '主页',
+            label: '文档',
           },
           {
             href: 'https://github.com/cokice/List-of-genshin-University',
