@@ -32,9 +32,9 @@ function Home() {
   const device = useDeviceType();
   const history = useHistory();
   const [fade, setFade] = useState(false);
-  let imagePath = "/img/genshin start.jpg"; // 默认为 desktop 图片
+  let imagePath = "/img/genshin start.webp"; // 默认为 desktop 图片
   if (device === 'mobile') {
-    imagePath = "/img/genshin start phone.png"; // 手机图片路径
+    imagePath = "/img/genshin start phone.webp"; // 手机图片路径
   }
 
   useEffect(() => {
