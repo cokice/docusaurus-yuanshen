@@ -78,7 +78,7 @@ const config = {
       },
       themeConfig: {
         googleAnalytics: {
-          trackingID: 'G-TBKG682LWW',
+          trackingID: 'GT-K4LJKJ3',
           // Optional fields.
           anonymizeIP: true, 
         },
