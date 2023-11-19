@@ -49,6 +49,11 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
+        gtag: {
+          trackingID: 'G-TBKG682LWW', // 替换为您的谷歌分析追踪ID
+          anonymizeIP: true,
+        },
+
       }),
     ],
   ],
