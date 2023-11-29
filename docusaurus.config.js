@@ -61,6 +61,13 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      scripts: [
+        {
+          src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5510352809003661',
+          async: true,
+          crossorigin: 'anonymous',
+        },
+      ],
       navbar: {
         title: '高校联盟',
         logo: {
