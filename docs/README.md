@@ -16,7 +16,7 @@
 2. **Fork 这个仓库**: 在页面右上角找到并点击 "Fork" 按钮，将这个项目复制到你的GitHub账户下。
 3. **克隆仓库**: 克隆你刚刚fork的仓库到你的本地计算机上。
 4. **创建新的分支**: 基于你要做的修改创建一个新的分支。
-5. **进行修改**: 在你的分支上进行修改，并提交你的改动。
+5. **添加域名**: 在你的分支里的new文件夹里，按照其中README的指示添加你的域名。
 6. **发起 Pull Request**: 在GitHub上发起一个Pull Request请求，将你的修改合并进原仓库。在发起Pull Request之前，请确保你的修改是准确无误的，并且已经过了测试。
 7. **不会github操作的小伙伴直接填写问卷提交信息[原神高校信息收集](https://wj.qq.com/s2/14161038/95a1/)要确保你已经注册了域名并实现跳转**
 8. **其他问题：邮箱howen.huang@qq.com**
@@ -26,7 +26,7 @@
    **例: 哈佛大学 www.原神大学.com**
 
 
-## 高校名单（2024-02-23 23:10 UTC+8）
+## 高校名单（2024-02-23 23:38 UTC+8）
 
 
 状态说明：
@@ -88,7 +88,7 @@
 | [哈尔滨原神大学.com](https://www.哈尔滨原神大学.com) | 哈尔滨工程大学 | :white_check_mark: CNAME |
 | [提瓦特工业大学.com](http://提瓦特工业大学.com) | 哈尔滨工业大学 | :white_check_mark: Redirect 301 |
 | [提瓦特大专.com](http://提瓦特大专.com) | 哈尔滨商业大学 | :white_check_mark:  |
-| [玩原神玩傻了.top](http://www.玩原神玩傻了.top) | 海口实验中学 | :question: Connection error |
+| [玩原神玩傻了.top](http://www.玩原神玩傻了.top) | 海口实验中学 | :white_check_mark: Redirect 301 |
 | [原神职业大学.com](https://原神职业大学.com) | 海南科技职业大学 | :white_check_mark: CNAME |
 | [原神高级中学.org](https://www.原神高级中学.org) | 杭州高级中学 | :white_check_mark:  |
 | [河北原神大学.com](http://www.河北原神大学.com) | 河北农业大学 | :white_check_mark: Redirect 301 |
@@ -189,7 +189,7 @@
 | [原神师范大学.cn](http://www.原神师范大学.cn) | 信阳师范大学 | :white_check_mark: Redirect 301 |
 | [璃月师范大学.com](http://www.璃月师范大学.com/) | 许昌学院 | :x: NXDOMAIN |
 | [原神大学.love](http://www.原神大学.love) | 燕山大学 | :x: NXDOMAIN |
-| [原神学院.中国](http://原神学院.中国) | 宜宾学院 *请解析到自己的服务器跳转* | :question: 403 |
+| [原神学院.中国](http://原神学院.中国) | 宜宾学院 *请解析到自己的服务器跳转* | :question: Connection error |
 | [英国皇家原神学院.com](http://www.英国皇家原神学院.com/) | 英国皇家艺术学院 | :white_check_mark: Redirect 301 |
 | [op.武汉原神大学.site](http://op.武汉原神大学.site) | 原神 | :white_check_mark: Redirect 301 |
 | [中国科学技术大学.com](http://中国科学技术大学.com) | 原神 | :white_check_mark: Redirect 302 |
