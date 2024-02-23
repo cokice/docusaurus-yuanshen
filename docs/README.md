@@ -1,11 +1,11 @@
 # 原神高校联盟
 
-欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有175个高校）（其中139个有效），提供一个校园集聚地。
+欢迎来到原神高校联盟项目！这个项目旨在收集和整理全国各地的原神相关高校名单（目前有176个高校）（其中141个有效），提供一个校园集聚地。
 非高校也可添加哟~
 
 喜欢本项目的话可以在[GitHub](https://github.com/cokice/List-of-genshin-University)内点个star。
 **该名单由学校名称字母顺序排列**
-
+1
 ## 如何提交
 :::caution
 **一定要在云厂商购买域名后配置相应的解析和跳转才能挂到此站点，且要经过测试能在浏览器正常访问该域名，否则无法上架到此站点**
@@ -23,7 +23,7 @@
 
    **例: 哈佛大学 www.原神大学.com**
 
-## 高校名单（2024-02-23）
+## 高校名单（2024-02-23 20:23 UTC+8）
 
 状态说明：
 - :white_check_mark: 经服务器验证可成功访问、跳转，并显示跳转方式。
@@ -84,7 +84,7 @@
 | [提瓦特工业大学.com](http://提瓦特工业大学.com) | 哈尔滨工业大学 | :white_check_mark: Redirect 301 |
 | [提瓦特大专.com](http://提瓦特大专.com) | 哈尔滨商业大学 | :white_check_mark:  |
 | [玩原神玩傻了.top](http://www.玩原神玩傻了.top) | 海口实验中学 | :question: Connection error |
-| [原神职业大学.com](https://www.原神职业大学.com) | 海南科技职业大学 | :x: Connection error |
+| [原神职业大学.com](https://原神职业大学.com) | 海南科技职业大学 | :white_check_mark: CNAME |
 | [原神高级中学.org](https://www.原神高级中学.org) | 杭州高级中学 | :white_check_mark:  |
 | [河北原神大学.com](http://www.河北原神大学.com) | 河北农业大学 | :white_check_mark: Redirect 301 |
 | [河北原神大专.com](http://www.河北原神大专.com) | 河北师范大学 | :white_check_mark: Redirect 302 |
@@ -156,7 +156,7 @@
 | [原神民族学院.cn](http://www.原神民族学院.cn/) | 四川民族学院 | :white_check_mark: Redirect 301 |
 | [苏州原神大学.cn](http://www.苏州原神大学.cn) | 苏州城市学院 | :white_check_mark: Redirect 301 |
 | [苏州原神大学.top](http://苏州原神大学.top) | 苏州大学 | :x: Connection error |
-| [世界原神中学.com](https://www.世界原神中学.com/) | 苏州中学 | :white_check_mark: Redirect 301 |
+| [世界原神中学.com](https://世界原神中学.com/) | 苏州中学 | :white_check_mark:  |
 | [浙江原神职业技术学院.com](https://浙江原神职业技术学院.com) | 随机跳转至部分浙江省内高职院校官网 | :white_check_mark:  |
 | [西北原神大学.com](http://www.西北原神大学.com) | 塔里木大学 | :white_check_mark:  |
 | [原神理工大学.com](http://www.原神理工大学.com) | 太原理工大学 | :white_check_mark: Redirect 301 |
@@ -168,6 +168,7 @@
 | [威海原神大学.cn](http://www.威海原神大学.cn) | 威海海洋职业学院 | :white_check_mark: Redirect 302 |
 | [无锡原神职业技术学院.xyz](https://无锡原神职业技术学院.xyz) | 无锡商业职业技术学院 | :white_check_mark: Redirect 302 |
 | [武汉原神大学.site](http://武汉原神大学.site) | 武汉工程大学 | :white_check_mark: Redirect 301 |
+| [武汉原神大学.org](http://www.武汉原神大学.org) | 武汉科技大学 | :white_check_mark: Redirect 302 |
 | [武汉原神大学.fun](http://www.武汉原神大学.fun) | 武汉理工大学 | :white_check_mark: Redirect 301 |
 | [江门原神大学.com](http://www.江门原神大学.com) | 五邑大学 | :white_check_mark: Redirect 308 |
 | [原神职业技术学院.com](http://www.原神职业技术学院.com) | 五邑大学 | :white_check_mark: Redirect 308 |
@@ -213,7 +214,6 @@
 | [原神林业科技大学.com](http://www.原神林业科技大学.com) | 中南林业科技大学 | :white_check_mark: Redirect 301 |
 | [原神螺蛳粉职业技术学院.com](http://www.原神螺蛳粉职业技术学院.com) | 中南林业科技大学 | :white_check_mark: Redirect 301 |
 | [原神启动.com](http://www.原神启动.com) | 中南林业科技大学 | :white_check_mark: Redirect 301 |
-| [武汉原神大学.org](http://www.武汉原神大学.org) | 武汉科技大学 |  |
 
 
 ## 联系方式
