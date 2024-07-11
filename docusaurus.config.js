@@ -53,6 +53,10 @@ const config = {
           trackingID: 'G-TBKG682LWW', // 替换为您的谷歌分析追踪ID
           anonymizeIP: true,
         },
+        googleAnalytics: {
+          trackingID: 'GT-K4LJKJ3',
+          anonymizeIP: true,
+        },
       }),
     ],
   ],
@@ -86,10 +90,6 @@ const config = {
             position: 'right',
           },
         ],
-      },
-      googleAnalytics: {
-        trackingID: 'GT-K4LJKJ3',
-        anonymizeIP: true,
       },
       footer: {
         style: 'dark',
