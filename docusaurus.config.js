@@ -53,7 +53,6 @@ const config = {
           trackingID: 'G-TBKG682LWW', // 替换为您的谷歌分析追踪ID
           anonymizeIP: true,
         },
-
       }),
     ],
   ],
@@ -88,12 +87,9 @@ const config = {
           },
         ],
       },
-      themeConfig: {
-        googleAnalytics: {
-          trackingID: 'GT-K4LJKJ3',
-          // Optional fields.
-          anonymizeIP: true, 
-        },
+      googleAnalytics: {
+        trackingID: 'GT-K4LJKJ3',
+        anonymizeIP: true,
       },
       footer: {
         style: 'dark',
@@ -145,8 +141,14 @@ const config = {
         darkTheme: darkCodeTheme,
         additionalLanguages: ['plsql'],
       },
-      
     }),
+  scripts: [
+    {
+      src: 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5510352809003661',
+      async: true,
+      crossorigin: 'anonymous',
+    },
+  ],
 };
 
 module.exports = config;
